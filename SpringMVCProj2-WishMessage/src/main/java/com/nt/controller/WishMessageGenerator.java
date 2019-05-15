@@ -10,6 +10,8 @@ import org.springframework.web.servlet.mvc.AbstractController;
 
 public class WishMessageGenerator extends AbstractController {
 
+	//handle request internal method
+	
 	@Override
 	public ModelAndView handleRequestInternal(HttpServletRequest req, HttpServletResponse res)
 			throws Exception {
