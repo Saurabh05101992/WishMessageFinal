@@ -14,5 +14,10 @@ public class ShowViewHandler extends AbstractController {
 		
 		return new ModelAndView("home");
 	}
+	
+	public void init(){
+	
+	
+	}
 
 }
