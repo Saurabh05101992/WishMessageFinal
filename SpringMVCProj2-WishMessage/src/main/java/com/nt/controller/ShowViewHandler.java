@@ -15,6 +15,7 @@ public class ShowViewHandler extends AbstractController {
 		return new ModelAndView("home");
 	}
 	
+	//init method added for something
 	public void init(){
 	
 	
